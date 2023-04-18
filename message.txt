@@ -1,0 +1,3 @@
+Whatever textes show in this file 12 will be replaced 29 by 40th empty.
+So it 2 means that 75 only
+numbers 6th will be displayed in the console.
